@@ -6,11 +6,11 @@ public class Eligible {
        try( Scanner sc = new Scanner(System.in)){
         int age=sc.nextInt();
         if(age>=18){
-            System.err.println("user is eligible to vote");
+            System.out.println("user is eligible to vote");
 
         }
         else{
-            System.err.println("user is not eligible to vote");
+            System.out.println("user is not eligible to vote");
         }
     }
     
