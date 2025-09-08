@@ -1,7 +1,5 @@
 //Write a Java program to input two strings from the user and print which one is longer.
-
-    import java.util.Scanner;
-
+import java.util.*;
 public class CompareStrings {
     public static void main(String[] args) {
         // Using try-with-resources to automatically close Scanner
@@ -27,7 +25,7 @@ public class CompareStrings {
     }
 }
 
-
-    
-
-
+/*Enter first string: dibyajyoti
+Enter second string: milan
+The first string is longer.*/
+  
